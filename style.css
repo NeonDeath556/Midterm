@@ -1,0 +1,11 @@
+body {
+    background: red;
+}
+
+.heading {
+    
+}
+
+.link1 > li { 
+    display: inline;
+}
