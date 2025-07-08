@@ -1,11 +1,32 @@
-body {
-    background: red;
+.banner{
+    background: #D61120;
+    padding: 10px;
 }
 
-.heading {
-    
-}
-
-.link1 > li { 
+.netband{
+    font-family: 'Inter';font-size: 13px;
+    color: white;
     display: inline;
+}
+
+.link1 {
+    list-style-type: none; 
+    display: inline;
+}
+.link1 > li {
+    font-family: 'Inter';font-size: 13px;
+    color: white;
+    list-style-type: none; 
+    display: inline;
+}
+
+.heading > ul > li {
+    font-family: 'Inter';font-size: 20px;
+    list-style-type: none;
+    display: inline;
+}
+
+.Net{
+    font-family: 'Inter';font-size: 32px;
+    color: red;
 }
